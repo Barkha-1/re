@@ -15,6 +15,9 @@ h4 {
   padding: 20px 200px;
 }
 
+.home-search{
+  width:50%;
+}
 
 /* Top Side Ad. */
 div.Ad {
@@ -30,10 +33,6 @@ div.Ad {
 
 }
 
-/* Card */
-.container {
-  width: 60rem;
-}
 
 /* Left Side Ad. */
 div.b {
