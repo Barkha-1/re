@@ -1,0 +1,108 @@
+
+.navbar-brand {
+  text-align: center;
+}
+
+/* Header */
+.page-header {
+  text-align: center;
+  color: blue;
+  padding: 60px;
+}
+
+/* Card Headings */
+h4 {
+  padding: 20px 200px;
+}
+
+
+/* Top Side Ad. */
+div.Ad {
+  border: 3px solid black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  align-items: center;
+  width: 50%;
+  height: 10px;
+  margin-left: 25%;
+
+}
+
+/* Card */
+.container {
+  width: 60rem;
+}
+
+/* Left Side Ad. */
+div.b {
+  position: absolute;
+  left: auto;
+  width: 130px;
+  height: 380px;
+  border: 3px solid blue;
+  padding: 10px;
+  margin-left: 10px;
+  justify-content: space-between;
+}
+
+/* Right Side Ad. */
+div.a {
+  position: absolute;
+  right: auto;
+  width: 130px;
+  height: 380px;
+  border: 3px solid green;
+  padding: 10px;
+  margin-left: 1120px;
+  margin-right: 20px;
+}
+
+
+.topnav input[type=text] {
+  float: inherit;
+  padding: 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  margin-left: 1000px;
+  font-size: 17px;
+}
+
+.footer-copyright {
+  width: 100% !important;
+  text-align: center !important;
+  justify-content: space-between !important;
+  display: flex;
+}
+.footer-copyright > div {
+  width: 33%;
+  margin: auto !important;
+}
+
+/* footer */
+.footer-3 {
+  color: white;
+  padding:10px;
+  font-size: 16px;
+}
+
+/* Footer Links */
+a{
+  color: white;
+  display:block;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.footer-2 > i {
+  width: fit-content;
+  margin: 0px 3%;
+  justify-content: space-between;
+}
+
+/* Footer Line */
+.xym {
+  text-align: center ;
+  font-size: 20px;
+}
